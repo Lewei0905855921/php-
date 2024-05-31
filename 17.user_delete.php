@@ -17,3 +17,7 @@
         echo "<meta http-equiv=REFRESH content='3, url=18.user.php'>";
     }
 ?>
+
+
+sql命令：delete from user where id='tony'
+使用$_GET["id"]，擷取上個頁面用GET方法傳過來，變數名稱為id的參數(tony)
